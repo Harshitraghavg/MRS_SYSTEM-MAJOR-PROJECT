@@ -13,7 +13,7 @@ function Hero() {
         </h1>
 
         <p className="hero-description">
-          Find your next favourite movie with CineMatch AI.
+          Find your next favourite movie with CineMatch .
           Explore movies based on your interests and discover
           something amazing every day.
         </p>
